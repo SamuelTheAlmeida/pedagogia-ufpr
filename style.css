@@ -1,3 +1,17 @@
+#content, #menu-horizontal {
+	width: 100%;	
+}
+
+#content {
+	background: rgb(255, 251, 246) none repeat scroll 0% 0%;
+}
+
+#menu-horizontal {
+	    background: #84A0A9 !important;
+    color: #fff;
+    transition: all 0.3s;
+}
+
 .wrapper {
     display: flex;
     align-items: stretch;
@@ -49,14 +63,16 @@ a, a:hover, a:focus {
 
 #sidebar {
     /* don't forget to add all the previously mentioned styles here too */
-    background: #7386D5;
-    color: #fff;
+    background: #FFFBF6;
+    color: #848E92;
     transition: all 0.3s;
 }
 
 #sidebar .sidebar-header {
-    padding: 20px;
+    padding: 15px;
     background: #6d7fcc;
+	background: #84A0A9;
+	color: #FFF6EC;
 }
 
 #sidebar ul.components {
@@ -75,16 +91,14 @@ a, a:hover, a:focus {
     display: block;
 }
 #sidebar ul li a:hover {
-    color: #7386D5;
-    background: #fff;
+    color: #000;
 }
 
 #sidebar ul li.active > a, a[aria-expanded="true"] {
     color: #fff;
-    background: #6d7fcc;
+    background: #A4B9C0;
 }
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
 }
