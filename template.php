@@ -1,3 +1,4 @@
+<?php $tituloPagina = "Titulo de Teste"?>
 <?php include("header.php"); ?>
 
 							<p>O Trabalho de Conclusão de Curso (TCC) integra a formação do Pedagogo do Setor de Educação da Universidade Federal do Paraná, por isto, a sua elaboração é condição para a conclusão do aluno no curso. 

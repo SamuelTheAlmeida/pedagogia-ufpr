@@ -85,7 +85,11 @@
 					<div class="col-lg-12">
 						<img class="img-topo" src="https://4.bp.blogspot.com/-iVLhvCxT5k4/V081nO0o6nI/AAAAAAAAAhk/FOOIU5ysGgwJEhzDoQxQUhQJ_1MhdqWFwCLcB/s1600/paranagua1.jpg">
 						<h1 class="titulo-pagina text-center">
-							Trabalho de Conclusão de Curso
+							<?php
+                                if (ISSET($tituloPagina)) {
+                                    ECHO $tituloPagina;
+                                }
+                            ?>
 						</h1>
 					</div>
 				</div>
