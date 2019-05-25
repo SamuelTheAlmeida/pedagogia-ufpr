@@ -30,7 +30,7 @@
                 <a href="#linksSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Links importantes</a>
                 <ul class="collapse list-unstyled" id="linksSubmenu">
                     <li>
-                        <a href="#">Pedagogia EAD</a>
+                        <a href="pedagogia-ead.php">Pedagogia EAD</a>
                     </li>
                     <li>
                         <a href="#">Portal do Aluno</a>
