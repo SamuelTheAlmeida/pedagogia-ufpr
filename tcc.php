@@ -1,4 +1,4 @@
-<?php $tituloPagina = "Titulo de Teste"?>
+<?php $tituloPagina = "Banco de TCCs"?>
 <?php include("header.php"); ?>
 <!-- Faça o CSS em um arquivo separado da pagina e importe aqui, antes de fechar o /head, exemplo abaixo -->
 <link rel="stylesheet" type="text/css" href="css/tcc.css"> 
