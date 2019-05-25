@@ -18,18 +18,26 @@
 
 <div class="row">
 	<div class="col-lg-6">
-		<p class="h5">Acesse os Trabalhos de Conclusão de Curso de seus respectivos anos abaixo:</p>
+		<p class="h5">Acesse a lista de TCCs por ano:</p>
 		<ul class="list-group">
 			<li class="list-group-item"><a href="#">2019</a></li>
 			<li class="list-group-item"><a href="#">2018</a></li>
-			<li class="list-group-item"><a href="#">2017</a></li>
+			<li class="list-group-item"><a  href="#">2017</a></li>
 			<li class="list-group-item"><a href="#">2016</a></li>
 			<li class="list-group-item"><a href="#">2015</a></li>
 			<li class="list-group-item"><a href="#">2014</a></li>
 		</ul>
 	</div>
 	<div class="col-lg-6">
-		B
+		<p class="h5">Links Externos</p>
+		<ul class="list-group">
+			<li class="list-group-item"><a href="#">Cronograma TCC 2019</a></li>
+			<li class="list-group-item"><a href="#">Regulamento do TCC</a></li>
+			<li class="list-group-item"><a href="#">Termo de Compromisso</a></li>
+			<li class="list-group-item"><a href="#">Ficha de Acompanhamento</a></li>
+			<li class="list-group-item"><a href="#">Ficha de Avaliação</a></li>
+			<li class="list-group-item"><a href="#">Professores do Setor de Educação e respectivos Temas</a></li>
+		</ul>		
 	</div>
 </div>
 

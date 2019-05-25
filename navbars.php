@@ -13,7 +13,7 @@
                 <a href="#">Ementa</a>
             </li>
             <li>
-                <a href="#">Banco de TCCs</a>
+                <a href="tcc.php">Banco de TCCs</a>
             </li>
             <li>
 				<a href="#">Estágios</a>
