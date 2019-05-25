@@ -1,9 +1,4 @@
-<?php $tituloPagina = "Titulo de Teste"?>
 <?php include("header.php"); ?>
-<!-- Faça o CSS em um arquivo separado da pagina e importe aqui, antes de fechar o /head, exemplo abaixo -->
-<!-- <link rel="stylesheet" type="text/css" href="css/css-dessa-pagina.css"> -->
-</head>
-<?php include("navbars.php"); ?>
 
 							<p>O Trabalho de Conclusão de Curso (TCC) integra a formação do Pedagogo do Setor de Educação da Universidade Federal do Paraná, por isto, a sua elaboração é condição para a conclusão do aluno no curso. 
          O tema do TCC deverá se relacionar com a educação e suas interfaces com áreas afins, de modo a contribuir para a reflexão teórica, o desenvolvimento de práticas e metodologias de ensino, a análise de intervenções, a formulação e implementação de políticas públicas na educação.
