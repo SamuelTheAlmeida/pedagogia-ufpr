@@ -71,7 +71,7 @@
 						</h1>
 					</div>
 				</div>
-			<div class="container my-1 conteudo py-1 px-4 text-center">
+			<div class="container my-1 conteudo px-4 text-center">
 				<div class="row">
 					<div class="col-lg-9">
-						<div class="jumbotron">
+						<div class="jumbotron px-4 py-3">
