@@ -19,7 +19,7 @@
 				<a href="#">Estágios</a>
             </li>
             <li>
-                <a href="#">Projeto Pedagógico</a>
+                <a href="projeto-pedagogico.php">Projeto Pedagógico</a>
             </li>
             <li>
                 <a href="#">Ensalamento</a>
@@ -33,10 +33,10 @@
                         <a href="pedagogia-ead.php">Pedagogia EAD</a>
                     </li>
                     <li>
-                        <a href="#">Portal do Aluno</a>
+                        <a href="https://portaldoaluno.ufpr.br/aluno/login.action?error=">Portal do Aluno</a>
                     </li>
                     <li>
-                        <a href="#">PRAE</a>
+                        <a href="http://www.prae.ufpr.br/prae/">PRAE</a>
                     </li>
                 </ul>
 
@@ -47,10 +47,10 @@
 		<!-- Page Content -->
 		<div id="content">
 			<nav class="navbar navbar-dark bg-primary navbar-expand-md py-md-2" id="menu-horizontal">
-				<a class="nav-link" href="#">Sobre o curso</a>
+				<a class="nav-link" href="apresentacao.php">Sobre o curso</a>
 					<ul class="navbar-nav">
 						<li class="nav-item py-md-2"><a href="#" class="nav-link">Secretaria</a></li>
-						<li class="nav-item py-md-2"><a href="#" class="nav-link">COE (Estágios)</a></li>
+						<li class="nav-item py-md-2"><a href="#" class="nav-link">COAFE(Estágios)</a></li>
 					</ul>
 				<form class="form-inline my-2 my-lg-0 ml-auto">
 				   <input class="form-control" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
