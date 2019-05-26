@@ -20,7 +20,7 @@
                 <a href="projeto-pedagogico.php">Projeto Pedagógico</a>
             </li>
             <li>
-                <a href="#">Ensalamento</a>
+                <a href="ensalamento.php">Ensalamento</a>
             </li>
         </ul>	
         <ul class="list-unstyled">
@@ -52,7 +52,7 @@
                             <div class="dropdown">
                                 <a href="#" class="nav-link dropbtn">Secretaria</a>
                                 <div class="dropdown-content">                                        
-                                    <a href="#">Ajuste de Matrícula</a>                                    
+                                    <a href="ajuste-matricula.php">Ajuste de Matrícula</a>                                    
                                     <a href="atividades-formativas.php">Atividades Formativas</a>                       
                                     <a href="coordenacao.php">Coordenação</a>                                    
                                     <a href="processo-seletivo.php">Processo Seletivo</a>                                            
