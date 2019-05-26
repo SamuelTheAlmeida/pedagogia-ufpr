@@ -10,14 +10,12 @@
         		<img class="img-fluid" src="http://www.pedagogia.ufpr.br/imagens/logo_Setor_31302017.png">
         	</li>
             <li class="active">
-                <a href="#">Ementa</a>
+                <a href="http://www.pedagogia.ufpr.br/alunos/obrementas.pdf" target="_blank">Ementa</a>
             </li>
             <li>
                 <a href="tcc.php">Banco de TCCs</a>
             </li>
-            <li>
-				<a href="#">Estágios</a>
-            </li>
+           
             <li>
                 <a href="projeto-pedagogico.php">Projeto Pedagógico</a>
             </li>
@@ -47,10 +45,20 @@
 		<!-- Page Content -->
 		<div id="content">
 			<nav class="navbar navbar-dark bg-primary navbar-expand-md py-md-2" id="menu-horizontal">
-				<a class="nav-link" href="apresentacao.php">Sobre o curso</a>
-					<ul class="navbar-nav">
-						<li class="nav-item py-md-2"><a href="#" class="nav-link">Secretaria</a></li>
-						<li class="nav-item py-md-2"><a href="#" class="nav-link">COAFE(Estágios)</a></li>
+				<a class="nav-link" href="apresentacao.php">Sobre o curso</a>                
+					<ul class="navbar-nav"> 
+                        <li class="nav-item py-md-2"><a href="estagios.php" class="nav-link">COAFE(Estágios)</a></li>
+                        <li class="nav-item py-md-2">
+                            <div class="dropdown">
+                                <a href="#" class="nav-link dropbtn">Secretaria</a>
+                                <div class="dropdown-content">                                        
+                                    <a href="#">Ajuste de Matrícula</a>                                    
+                                    <a href="atividades-formativas.php">Atividades Formativas</a>                       
+                                    <a href="coordenacao.php">Coordenação</a>                                    
+                                    <a href="processo-seletivo.php">Processo Seletivo</a>                                            
+                                </div>
+                            </div>        
+                        </li>                       						
 					</ul>
 				<form class="form-inline my-2 my-lg-0 ml-auto">
 				   <input class="form-control" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
