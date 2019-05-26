@@ -3,7 +3,7 @@
 		<!-- Sidebar -->
 		<nav id="sidebar">
         <div class="sidebar-header">
-            <h3><img class="pedagogia-icon" src="res/pedagogia-icon.svg" width= "40px";> Pedagogia</h3>
+            <h3><a href="pagina-inicial.php"><img class="pedagogia-icon" src="res/pedagogia-icon.svg" width= "40px";> Pedagogia</a></h3>
         </div>
         <ul class="list-unstyled">
         	<li class="px-5 py-2">
