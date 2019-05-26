@@ -7,17 +7,17 @@
 	<div class="row menu-estagio">
 		<div class="col-lg-4">
 			<ul class="list-group">
-				<li class="list-group-item"><a href="https://drive.google.com/file/d/1CIJnzRNMvK2s0ycI6OSjRJY3wwvVEn7h/view">Manual de Estágios</a></li>
+				<li class="list-group-item"><a href="https://drive.google.com/file/d/1CIJnzRNMvK2s0ycI6OSjRJY3wwvVEn7h/view" target="_blank">Manual de Estágios</a></li>
 			</ul>
 		</div>
 		<div class="col-lg-4">
 			<ul class="list-group">
-				<li class="list-group-item"><a href="https://drive.google.com/file/d/1kxeFrkncG7LDFTFP6yqwqoUmGgCFpMZG/view">Reunião</a></li>
+				<li class="list-group-item"><a href="https://drive.google.com/file/d/1kxeFrkncG7LDFTFP6yqwqoUmGgCFpMZG/view" target="_blank">Reunião</a></li>
 			</ul>
 		</div>
 		<div class="col-lg-4">
 			<ul class="list-group">
-				<li class="list-group-item"><a href="http://200.17.193.102/tela_estagio_formularios/">Formulários</a></li>
+				<li class="list-group-item"><a href="http://200.17.193.102/tela_estagio_formularios/" target="_blank">Formulários</a></li>
 			</ul>
 		</div>
 			

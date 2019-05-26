@@ -1,0 +1,24 @@
+.btn-leia-mais{
+	position: relative;
+	margin: 0% 41%;
+}
+
+.list-group-item a {
+	font-size: 1.15em;
+	color: #A4B9C0;
+}
+
+.list-group-item:hover {
+	background-color: #FFE2C4;
+}
+
+
+.list-group-item a:hover {
+	color: black;
+	border-bottom: 3px solid #84A0A9;
+}
+
+.row .titulo-aviso{
+	margin-right: 5px !important;
+	margin-left: 5px !important;
+}
