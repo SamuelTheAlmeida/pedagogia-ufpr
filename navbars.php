@@ -22,6 +22,9 @@
             <li>
                 <a href="ensalamento.php">Ensalamento</a>
             </li>
+            <li>
+                <a href="cadastro-egressos.php">Cadastro de Egressos</a>
+            </li>            
         </ul>	
         <ul class="list-unstyled">
             <li class="">
