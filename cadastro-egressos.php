@@ -34,7 +34,7 @@
     </div>
     <div class="form-group col-md-6">
       <label for="inputData">Data de Nascimento</label>
-      <input type="date" class="form-control" id="inputData" placeholder="Data de Nascimento">
+      <input type="text" class="form-control" id="inputData" placeholder="Data de Nascimento">
     </div>      	
   </div>
   <div class="form-row">
