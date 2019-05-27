@@ -100,7 +100,11 @@
 </form>
 <script>
   $(document).ready(function(){
-    $('#inputNome').mask('A');
+    $('#inputNome').lettersOnly();
+    $('#inputSobrenome').lettersOnly();
+    $('#inputRG').alphanumericOnly();
+    $('#inputEndereco').alphanumericOnly();
+    $('#inputCidade').lettersOnly();
     $('#inputCPF').mask('000.000.000-00');
     $('#inputData').mask('00/00/0000');
     $('#inputTelefone').mask('(00) 00000-0000');
