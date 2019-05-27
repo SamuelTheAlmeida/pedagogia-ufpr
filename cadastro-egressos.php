@@ -102,8 +102,8 @@
   $(document).ready(function(){
     $('#inputNome').lettersOnly();
     $('#inputSobrenome').lettersOnly();
-    $('#inputRG').alphanumericOnly();
-    $('#inputEndereco').alphanumericOnly();
+    $('#inputRG').alphaNumericOnly();
+    $('#inputEndereco').alphaNumericOnly();
     $('#inputCidade').lettersOnly();
     $('#inputCPF').mask('000.000.000-00');
     $('#inputData').mask('00/00/0000');
