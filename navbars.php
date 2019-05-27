@@ -22,9 +22,20 @@
             <li>
                 <a href="ensalamento.php">Ensalamento</a>
             </li>
-            <li>
-                <a href="cadastro-egressos.php">Cadastro de Egressos</a>
-            </li>            
+            <ul class="list-unstyled">
+            <li class="">
+                <a href="#linksSubmenus" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Egressos</a>
+                <ul class="collapse list-unstyled" id="linksSubmenus">
+                    <li>
+                        <a href="cadastro-egressos.php">Cadastro de Egressos</a>
+                    </li>
+                    <li>
+                        <a href="lista-egressos.php">Lista de Egressos</a>
+                    </li>
+                </ul>
+
+            </li>
+        </ul>            
         </ul>	
         <ul class="list-unstyled">
             <li class="">
@@ -42,7 +53,11 @@
                 </ul>
 
             </li>
-        </ul>       	
+        </ul> 
+        
+        
+
+
 		</nav>
 
 		<!-- Page Content -->
