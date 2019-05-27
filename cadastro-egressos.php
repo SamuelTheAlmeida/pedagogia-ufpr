@@ -98,4 +98,9 @@
   </div>
   <button type="submit" class="btn btn-success btn-md"><strong>Enviar</strong></button>
 </form>
+<script>
+  $(document).ready(function(){
+    $('#inputData').mask('00/00/0000');
+});
+</script>
 <?php include("footer.php"); ?>
