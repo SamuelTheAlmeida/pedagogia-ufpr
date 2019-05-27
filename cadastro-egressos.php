@@ -100,7 +100,7 @@
 </form>
 <script>
   $(document).ready(function(){
-    $('#inputNome').mask('[a-z]');
+    $('#inputNome').mask('a-z');
     $('#inputCPF').mask('000.000.000-00');
     $('#inputData').mask('00/00/0000');
     $('#inputTelefone').mask('(00) 00000-0000');
